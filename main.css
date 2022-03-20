@@ -1,0 +1,23 @@
+* {
+    margin:0; 
+    padding:0;
+    box-sizing: border-box;
+    outline: none; 
+    border:none;
+    text-decoration: none;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: lighter;
+}
+
+section {
+    padding:2rem 7%;
+}
+
+.contact form {
+    background:#fff;
+    box-shadow: 0 .5rem 1rem rgba(0,0,0,.1);
+    border-radius: .5rem;
+    margin:2rem auto;
+    max-width: 70rem;
+    padding:2rem;
+}
