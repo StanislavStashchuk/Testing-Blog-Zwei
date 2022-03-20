@@ -9,6 +9,10 @@
     font-weight: lighter;
 }
 
+.app {
+    background-color: beige;
+}
+
 section {
     padding:2rem 7%;
 }
@@ -20,4 +24,20 @@ section {
     margin:2rem auto;
     max-width: 70rem;
     padding:2rem;
+}
+
+.contact form label {
+    color: #4e2a1d;
+    padding: 10px 15px;
+}
+
+.contact form label input {
+    color: #ff7f50;
+    background-color: darkgray;
+    margin: 15px;
+}
+
+.contact form label textarea {
+    color: #ff7f50;
+    background-color: darkgray;
 }
